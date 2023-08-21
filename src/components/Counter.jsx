@@ -16,16 +16,6 @@ const Counter = function () {
         Increment
       </button>
       <button onClick={decrement}> Decrement</button>
-      <div className="post">
-        <div className="post__content">
-          <strong>1.JavaScript</strong>
-          <div>Java Script bla bla bla</div>
-        </div>
-        <div className="post__btns">
-            <button>Delete</button>
-        </div>
-      </div>
-      
     </div>
   );
 };
